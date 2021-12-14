@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FinalProject": {
+      "commandName": "Project",
+      "commandLineArgs": "ca 3200"
+    }
+  }
+}
